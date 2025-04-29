@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="logo.png" width="250"/>
+  <img src="Logo.png" width="250"/>
 </p>
 
-# 💧 fromdroptoflood: a pentest journey
+# 💧 FromDropToFlood: A Pentest Journey
 
 Welcome to my personal offensive security lab — a space where small daily steps become powerful waves.
 
