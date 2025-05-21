@@ -24,6 +24,6 @@ This repository documents my hands-on penetration testing journey through:
 📁 web-pentest/
 📁 active-directory/
 📁 scripts/
-📁 reports/
+
 README.md
 
