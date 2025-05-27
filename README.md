@@ -21,7 +21,7 @@ This repository documents my hands-on penetration testing journey through:
 
 ```bash
 📁 network-pentest/
-📁 web-pentest/
+📁 Web-pentest/
 📁 active-directory/
 📁 scripts/
 
